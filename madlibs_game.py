@@ -1,0 +1,9 @@
+#utilizzeremo una piccola struttura
+#per far impostare all'utente le parti tra le graffe
+color = input("enter a color ")
+plural_noun = input("enter a plural noun ")
+celebrity = input("enter a celebrity ")
+
+print("Roses are " + color)
+print(plural_noun + " are blue")
+print("I love " + celebrity)
